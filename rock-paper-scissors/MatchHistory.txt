@@ -1,0 +1,6 @@
+p1: PAPERp2: ROCK	Computer Player wins!
+p1: PAPERp2: ROCK	Computer Player wins!
+p1: SCISSORSp2: PAPER	Computer Player wins!
+p1: ROCKp2: SCISSORS	Computer Player wins!
+p1: SCISSORSp2: PAPER	Computer Player wins!
+p1: ROCKp2: SCISSORS	Computer Player wins!
